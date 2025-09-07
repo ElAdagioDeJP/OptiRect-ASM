@@ -1,10 +1,10 @@
 ; =============================================================
-; Integrantes / Team Members:
-; 1) Nombre Apellido - C.I.: XXXXXXXX
+; Integrantes / Team Members: Nombre Apellido - C.I.: XXXXXXXX
+; 1) 
 ; 2) Diego Rojas - C.I.: 27657205
 ; 3) Jose Farrauto - C.I.: 30696288
 ; 4) Marco Vilera - C.I.: 29779102
-; 5) (Opcional)
+; 5) Juan Vargas - C.I.: 30448315
 ; Archivo: <ReemplaceConIniciales>.asm  (Renombrar EXACTO a la cadena de iniciales)
 ; Descripcion: Dibuja un rectangulo 200x100 con colores ciclicos 0..15 y
 ;              sobrepone cadena de iniciales en modo 13h (320x200x256).
