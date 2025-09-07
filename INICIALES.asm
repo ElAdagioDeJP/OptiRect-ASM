@@ -2,7 +2,7 @@
 ; Integrantes / Team Members:
 ; 1) Nombre Apellido - C.I.: XXXXXXXX
 ; 2) Diego Rojas - C.I.: 27657205
-; 3) (Opcional)
+; 3) Jose Farrauto - C.I.: 30696288
 ; 4) (Opcional)
 ; 5) (Opcional)
 ; Archivo: <ReemplaceConIniciales>.asm  (Renombrar EXACTO a la cadena de iniciales)
