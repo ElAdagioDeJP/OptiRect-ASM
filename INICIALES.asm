@@ -3,7 +3,7 @@
 ; 1) Nombre Apellido - C.I.: XXXXXXXX
 ; 2) Diego Rojas - C.I.: 27657205
 ; 3) Jose Farrauto - C.I.: 30696288
-; 4) (Opcional)
+; 4) Marco Vilera - C.I.: 29779102
 ; 5) (Opcional)
 ; Archivo: <ReemplaceConIniciales>.asm  (Renombrar EXACTO a la cadena de iniciales)
 ; Descripcion: Dibuja un rectangulo 200x100 con colores ciclicos 0..15 y
