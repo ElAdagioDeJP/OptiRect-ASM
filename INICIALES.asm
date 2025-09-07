@@ -1,7 +1,7 @@
 ; =============================================================
 ; Integrantes / Team Members:
 ; 1) Nombre Apellido - C.I.: XXXXXXXX
-; 2) (Opcional)
+; 2) Diego Rojas - C.I.: 27657205
 ; 3) (Opcional)
 ; 4) (Opcional)
 ; 5) (Opcional)
