@@ -1,6 +1,6 @@
 ; =============================================================
 ; Integrantes / Team Members: Nombre Apellido - C.I.: XXXXXXXX
-; 1) 
+; 1) Alejandro Chávez - C.I.: 32278392
 ; 2) Diego Rojas - C.I.: 27657205
 ; 3) Jose Farrauto - C.I.: 30696288
 ; 4) Marco Vilera - C.I.: 29779102
